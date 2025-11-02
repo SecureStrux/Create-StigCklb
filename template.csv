@@ -1,0 +1,6 @@
+Title,Discussion,Severity,RuleID,GroupID,StigID,CheckText,FixText
+This is STIG Check Title Example 1,This is STIG Check Discussion Example 1,low,This is STIG Check RuleID Example 1,This is STIG GroupID Example 1,This is STIG Check StigID Example 1,This is STIG Check CheckText Example 1,This is STIG Check FixText Example 1
+This is STIG Check Title Example 2,This is STIG Check Discussion Example 2,medium,This is STIG Check RuleID Example 2,This is STIG GroupID Example 2,This is STIG Check StigID Example 2,This is STIG Check CheckText Example 2,This is STIG Check FixText Example 2
+This is STIG Check Title Example 3,This is STIG Check Discussion Example 3,high,This is STIG Check RuleID Example 3,This is STIG GroupID Example 3,This is STIG Check StigID Example 3,This is STIG Check CheckText Example 3,This is STIG Check FixText Example 3
+This is STIG Check Title Example 4,This is STIG Check Discussion Example 4,low,This is STIG Check RuleID Example 4,This is STIG GroupID Example 4,This is STIG Check StigID Example 4,This is STIG Check CheckText Example 4,This is STIG Check FixText Example 4
+This is STIG Check Title Example 5,This is STIG Check Discussion Example 5,medium,This is STIG Check RuleID Example 5,This is STIG GroupID Example 5,This is STIG Check StigID Example 5,This is STIG Check CheckText Example 5,This is STIG Check FixText Example 5
