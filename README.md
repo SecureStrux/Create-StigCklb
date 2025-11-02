@@ -2,7 +2,7 @@
 
 Generates a **DISA STIG Checklist (.cklb)** file from a CSV template.
 
-This PowerShell script converts Security Technical Implementation Guide (STIG) data into a JSON-based `.cklb` file compatible with DISA STIG Viewer 3.0.
+This PowerShell script converts Security Technical Implementation Guide (STIG) data into a JSON-based `.cklb` file compatible with [DISA STIG Viewer 3.0](https://www.cyber.mil/stigs/downloads).
 
 ---
 ## Prerequisites
