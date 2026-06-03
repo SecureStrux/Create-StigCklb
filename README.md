@@ -9,7 +9,7 @@ This PowerShell script converts Security Technical Implementation Guide (STIG) d
 
 Before running the script, ensure you have the following:
 
-* **PowerShell 7.0 or later**
+* **PowerShell 5.1 or later**
 * A valid **STIG template CSV file** containing rule data
 * Appropriate **file system permissions** to read the CSV and write the output `.cklb`
 
